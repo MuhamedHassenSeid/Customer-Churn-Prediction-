@@ -13,7 +13,7 @@ If you are using this data please cite the following paper.
   title={Customer Churn Prediction Using Machine Learning: Commercial Bank of Ethiopia},
   author={Seid, Muhamed Hassen and Woldeyohannis, Michael Melese},
   booktitle={2022 International Conference on Information and Communication Technology for Development for Africa (ICT4DA)},
-  pages={1--6},
+  pages={6-12},
   year={2022},
   organization={IEEE}
 }
